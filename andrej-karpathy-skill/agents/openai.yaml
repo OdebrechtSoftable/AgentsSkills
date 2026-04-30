@@ -1,0 +1,4 @@
+interface:
+  display_name: "Andrej Karpathy Skill"
+  short_description: "Think-first, minimal coding workflow"
+  default_prompt: "Use $andrej-karpathy-skill to make the smallest correct change and verify it."
