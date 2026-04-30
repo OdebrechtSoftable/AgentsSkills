@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT-5.5 Software Engineer"
+  short_description: "Codex-style senior SWE workflow for GPT-5.5"
+  default_prompt: "Use $gpt55-software-engineer to implement this code change end to end."
